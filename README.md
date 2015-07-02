@@ -4,10 +4,9 @@ Invoicing application using Laravel
 ##How to install:
 * [Step 1: Get the code](#step1)
 * [Step 2: Use Composer to install dependencies](#step2)
-* [Step 3: Configure Mailer](#step3)
-* [Step 4: Create database](#step4)
-* [Step 5: Install](#step5)
-* [Step 6: Start Page](#step6)
+* [Step 3: Create database](#step3)
+* [Step 4: Install](#step4)
+* [Step 5: Start Page](#step5)
 
 -----
 <a name="step1"></a>
