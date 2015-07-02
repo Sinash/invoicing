@@ -65,7 +65,7 @@ If you have configured the appication in your localhost using virtual host under
 <a name="step5"></a>
 ### Step 5: Start Page
 
-You can now login to admin part of Laravel Framework 5  Bootstrap 3 Starter Site:
+You can now login to admin part of Site:
 
     username: sinash@gmail.com
     password: admin123
